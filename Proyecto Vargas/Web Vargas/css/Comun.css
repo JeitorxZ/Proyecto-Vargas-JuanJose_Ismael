@@ -1,0 +1,206 @@
+body{
+    font-family: Segoe UI;
+    
+}
+
+#citas{
+   border-style: solid;
+   color: #2D6B40;
+   border-width: 1px;
+   background-color: #F5F5F5;    	 
+   font-size: 1em;
+   text-align: center;
+}
+
+.fuentebanner{
+    color: #2D6B40;
+    font-size: 40px;
+    
+}
+
+.consulta{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.tlfConsulta{    
+    margin-top: 50px;
+    margin-left: -100px;
+}
+
+.exp{
+    margin-top: 20px;
+    margin-left: 250px;
+}
+.expimg{
+    margin-top: 55px;
+    margin-left: -230px;
+}
+
+.w100{
+   width: 100%;
+}
+
+.space{
+   margin-left: 50px;
+  
+}
+.space3{    
+    margin-left: 230px;    
+}
+
+.empresa{    
+    color: #2D6B40;
+    font-size: 45px;
+    margin-top: 1.75%;
+}
+
+.space2{
+   margin-left: 50px;
+}
+
+.logo{
+    margin-top: 0.2%;
+    width: 379px;
+    height: 130px;
+}
+
+#color{
+     color: #178E92;
+}
+
+#titulo{
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+#tdescrip{
+    font-size: 20px;
+}
+
+#ultimo{
+    margin-top: 50px;
+}
+
+
+.color{
+    color: rgb(82, 169, 196);             
+    display: flex;
+    float: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.colorYoutube{
+    color: red;
+
+}
+.colorTwitter{
+    color: rgb(10, 198, 255);
+}
+
+.colorInstagram{
+    color: rgb(149, 0, 112);
+}
+
+.colorFacebook{
+    color: rgb(10, 102, 207);
+}
+
+.yellow{
+    color: yellow;
+}
+
+.sizelogo{
+    width: 20%;
+    height: 1%;
+}
+
+#encabezado{    
+    font-size: 25px;
+    text-align: center;
+}
+
+#encabezado2{
+    font-size: 35px;
+    text-align: left;
+    color: #178E92;
+    margin-top: 3%;
+}
+
+
+
+#texto{
+    font-size: 20px;
+    text-align: center;
+}
+
+#center{
+   display: flex; 
+}
+
+.margin{
+   margin-top: 3%;
+}
+
+.posicion{
+    margin-right: 30px;
+}
+.move{
+    margin-left: 50px;
+}
+.estiloNum{
+    font-size: x-large;
+    margin-left: 4%;
+}
+
+.banner{
+   color: rgb(2, 14, 14);
+   background-color: #eeeeeeaf;
+   text-align: center;
+   height: 20%;
+   padding: 2%;
+}
+.bannerContacto{
+    background-color: #2A88CF;
+    height: 300px;
+    padding-top: 3%;
+
+}
+
+.bg-green{
+    background-color: #C7D401;
+}
+.initial{
+    padding-left: initial;
+    padding-right: initial;
+}
+.bannerGaleria{
+   background-color: #8FCBCB;
+    height: 575px;
+    padding-top: 3%;
+}
+.derechos{
+   color: rgb(255, 255, 255);
+   background-color: #1b1b1b;
+   text-align: center;
+   padding: 2%;
+   height: 10%;    
+}
+.f{
+    float: left;
+}
+
+footer img{
+   text-align: center;   
+   height: 50px;
+   
+}
+.col-centered{
+   display: inline-block;
+}
+
+footer div h3{
+   margin-bottom: 3%;
+}
